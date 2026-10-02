@@ -12,10 +12,6 @@ Building web applications with **TypeScript, React, Node.js and modern developme
   <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://recognitions.forit.ar/">
-  <img src="https://img.shields.io/badge/Reconocimiento-Visit%20project-6366F1?style=for-the-badge" />
-</a>
-&nbsp;
 <a href="https://forit.ar/">
   <img src="https://img.shields.io/badge/ForIT-Web-06B6D4?style=for-the-badge" />
 </a>
